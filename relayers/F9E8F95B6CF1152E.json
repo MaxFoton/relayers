@@ -2,7 +2,7 @@
    	"keybaseIdentity": "F9E8F95B6CF1152E",
    	"name": "maxfoton",
    	"website": "maxfoton.tech",
-   	"twitter": "https://twitter.com/MaxFoton",
+   	"twitter": "https://x.com/MaxFoton",
    	"telegram": "https://t.me/MaxFoton", 
    	"discord": "https://discordapp.com/users/707289000087519312",
    	"email": "djmaxfoton@gmail.com",
@@ -10,6 +10,7 @@
    	"chainsRelayed": [
    	{
   "ticker": "GRAV", "relayerAddress": "gravity13w9zq85yuk8jud83h2qncrzlsfq9s48k85t97c"
+  "ticker": "IXO", "relayerAddress": "ixo15k3k0jdqjjwxhtclg3j5a82fps2r59g0ec76xm"
     }
   ]
 }
